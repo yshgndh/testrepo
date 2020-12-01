@@ -1,0 +1,6 @@
+1) At 7:15am PDT, start the 5 delta, 10 pt wide, 1 Lot Call credit spread and Put credit spread
+
+
+2) Add stop Losses to the short legs at 2.5x the credit recieved
+Never Exceed 5 delta at any time
+Never forget to add stop loss on any short leg
